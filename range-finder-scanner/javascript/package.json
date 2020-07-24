@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "mraa": "^0.7.3"
+    "mraa": "^0.10.1"
   }
 }
